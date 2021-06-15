@@ -10,3 +10,7 @@ from sinkhole_functions.geometric_models import *
 - process_arc_connections.py
 	- Still need to write tests for this sections
  
+## Todo
+- import newly created functions for making movies for arc-based method
+- import functions used for the spatial temporal method
+- order the functions based on the strategy
